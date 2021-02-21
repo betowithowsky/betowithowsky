@@ -21,6 +21,12 @@
       src="https://github-readme-stats.vercel.app/api?username=betowithowsky&count_private=true&show_icons=true&theme=dracula&custom_title=Github%20Status&hide=issues"
     />
   </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=betowithowsky&layout=compact&theme=dracula"
+    />
+  </a>
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
